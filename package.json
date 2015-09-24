@@ -1,0 +1,12 @@
+{
+  "name": "Aim",
+  "version": "0.0.0",
+  "description": "Juego de apuntar",
+  "main": "game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Laurens",
+  "license": "BSD"
+}
